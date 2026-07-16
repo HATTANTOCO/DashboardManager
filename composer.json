@@ -1,0 +1,14 @@
+{
+    "name": "your-github-name/dashboard-manager",
+    "description": "baserCMS 5系 管理画面のダッシュボードの既存パネルを非表示にし、外部通信も遮断します。また、新作パネルの表示順を先頭へ移動、並び順を変更します。",
+    "type": "baser-plugin",
+    "license": "MIT",
+    "require": {
+        "baserproject/baser-core": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DashboardManager\\": "src/"
+        }
+    }
+}
