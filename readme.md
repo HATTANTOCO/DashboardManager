@@ -50,4 +50,4 @@ return [
 自作パネルは、既存パネルに倣って、PHPやHTMLで自由に作成します。
 
 ## ライセンス
-- 本プラグインは **[MIT License](https://opensource.org/license/mit)** のもとで公開されています。個人・商用問わず、自由に変形・再配布していただいて構いません。
+本プラグインは **[MIT License](https://opensource.org/license/mit)** のもとで公開されています。個人・商用問わず、自由に変形・再配布していただいて構いません。
